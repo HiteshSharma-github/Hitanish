@@ -12,7 +12,8 @@ Search keywords against websites that have been indexed/spidered by Google.<br /
 * keywords.conf: BLUELAY
 * sources.conf: github.com
 
-![Alt](/poc.jpg "Proof of Concept")
+![hit](https://user-images.githubusercontent.com/85629794/197405517-490a461e-d992-4ba7-b3d3-2618c0098470.jpg)
+
 
 ## Install:
 

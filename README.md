@@ -1,7 +1,7 @@
 # HITANISH
 
 ## Description:
-Project related to Computer networks                                                                                       
+Project related to Computer Networks                                                                                       
 A small web search engine - Search keywords from URLs                                                                 
 Search keywords against websites that have been indexed/spidered by Google.<br />
 * Choose what sites to search against, what keywords to search for.<br />

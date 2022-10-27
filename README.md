@@ -9,8 +9,8 @@ Search keywords against websites that have been indexed/spidered by Google.<br /
 * Optionally proxy your requests through custom proxies to avoid Google banning.<br />
 
 ## Proof of Concept:
-
-
+ keywords.conf- mern                                                                           
+ sources.conf - github.com                          
 
 ![hit](https://user-images.githubusercontent.com/85629794/197405517-490a461e-d992-4ba7-b3d3-2618c0098470.jpg)
 

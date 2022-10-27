@@ -1,7 +1,8 @@
-# BLUELAY
+# HITANISH
 
 ## Description:
-
+project related to Computer networks
+A small web search engine - Search keywords from URLs
 Search keywords against websites that have been indexed/spidered by Google.<br />
 * Choose what sites to search against, what keywords to search for.<br />
 * Examples could be: hash values, private secrets, email addresses or simply domain names.<br />
@@ -9,8 +10,7 @@ Search keywords against websites that have been indexed/spidered by Google.<br /
 
 ## Proof of Concept:
 
-* keywords.conf: BLUELAY
-* sources.conf: github.com
+
 
 ![hit](https://user-images.githubusercontent.com/85629794/197405517-490a461e-d992-4ba7-b3d3-2618c0098470.jpg)
 
@@ -18,15 +18,15 @@ Search keywords against websites that have been indexed/spidered by Google.<br /
 ## Install:
 
 ```bash
-git clone https://github.com/xakepnz/BLUELAY.git
-cd BLUELAY
+git clone https://github.com/HiteshSharma-github/Hitanish.git
+cd Hitanish
 pip install -r requirements.txt
 ```
 
 ## Usage:
 
 ```bash
-python3 bluelay.py
+python3 hitanish.py
 ```
 
 Edit the three config files:<br />
@@ -40,7 +40,7 @@ Edit the three config files:<br />
 ```bash
 # These are the keywords to search against Google. They can be simply domain names, or specific terminology.
 # Anything behind a hashtag like this line, will be ignored.
-BLUELAY
+HITANISH
 ```
 
 <b>sources.conf</b>
@@ -64,3 +64,4 @@ github.com
 # http://1.1.1.1:80
 # https://1.1.1.1:443
 ```
+# Happy Hacking !
